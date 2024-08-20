@@ -249,10 +249,10 @@
 
 #
 
-![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+![footer](https://github.com/kwabena-cyber)
 
 
 -----
-**Credits**: [GovindSingh9447](https://github.com/GovindSingh9447)
+**Credits**: [GOD ALMIGHT](https://github.com/kwabena-cyber)
 
-**Last Edited on**: 20/04/2024
+**Last Edited on**: 20/07/2024
