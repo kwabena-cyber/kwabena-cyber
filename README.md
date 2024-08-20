@@ -112,7 +112,7 @@
 @@       o o                                           @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮\/__-__\/❯ Networking isn't about what you know @@
 @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
